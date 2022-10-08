@@ -12,7 +12,7 @@ This algorithm is deployed as a Fiji plugin. To run the plugin:
 * Add the script to the plugins menu application:
 The macro must be saved in Fiji.app/scripts/ (or a subdirectory thereof)[^1]    <br/>
 The file extension of the macro file must be .ijm                              <br/>
-The filename must contain an ‘_’ (underscore) character                        <br/><br/>
+The filename must contain an ‘_’ (underscore) character                        <br/>
 
 Note that, as opposed to plain IJ1 [^2], this approach allows you to register your macros and scripts in any menu. So, if e.g, you place your macro in Fiji.app/scripts/Edit/My Own Submenu it will appear in Edit>My Own Submenu>
 
