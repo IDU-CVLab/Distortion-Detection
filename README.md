@@ -7,8 +7,8 @@ Intensity_variation.m detects and reconstruct distorted frames and produce new v
 # Plugins Deployment via Fiji
 This algorithm is deployed as a Fiji plugin. To run the plugin:
 
-* Install Fiji [here](https://imagej.net/software/fiji/downloads).
-* Download the .ijm macro
+* Install Fiji [here](https://imagej.net/software/fiji/downloads)
+* Download the .ijm macro in the folder "Plugins_Fiji"
 * Add the script to the plugins menu:
 The macro must be saved in Fiji.app/scripts/ (or a subdirectory thereof)**1    <br/>
 The file extension of the macro file must be .ijm                              <br/>
