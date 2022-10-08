@@ -16,5 +16,5 @@ The filename must contain an ‘_’ (underscore) character                     
 
 Note that, as opposed to plain IJ1 [^2], this approach allows you to register your macros and scripts in any menu. So, if e.g, you place your macro in Fiji.app/scripts/Edit/My Own Submenu it will appear in Edit>My Own Submenu>
 
-[^1] In Fiji, it is also possible to place scripts in another legacy location: Fiji.app/plugins/Scripts/
+[^1] In Fiji, it is also possible to place scripts in another legacy location: Fiji.app/plugins/Scripts/ <br/>
 [^2] In plain IJ1, the macro can have either an .ijm or .txt, and must be placed in the /plugins/ directory).
