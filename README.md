@@ -20,8 +20,7 @@ Note that, as opposed to plain IJ1 [^2], this approach allows you to register yo
 [^2] In plain IJ1, the macro can have either an .ijm or .txt, and must be placed in the /plugins/ directory).
 
 Exaplanation of adding a script to the plungin menu can be found [here](https://imagej.net/scripting/#Adding_scripts_to_the_Plugins_menu)
-
-<br/> <br/>
+<br/> 
 * Please send an email in csae of issues or to request the duckerhub password.
 # Citation
 * If you find the work useful, please consider citing the paper:
