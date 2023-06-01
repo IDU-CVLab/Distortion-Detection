@@ -2,7 +2,7 @@
 * 'Blank_frame.m' is for blank frame detection and video reconstruction.
 * 'Intensity_variation.m' is for detecting and reconstructing distorted frames and producing a new video.
 
-# Plugins Deployment via Fiji
+# Fiji Plugins 
 This algorithm is deployed as a Fiji plugin. To run the plugin:
 
 * Install Fiji [here](https://imagej.net/software/fiji/downloads)
