@@ -1,6 +1,4 @@
-# Distortion-Detection Codes
-[![DOI:10.1109/TIPTEKNO56568.2022.9960161](http://img.shields.io/badge/DOI-10.1101/2021.01.08.425840-B31B1B.svg)](https://ieeexplore.ieee.org/document/9960161)
-
+# Introduction
 Blank_frame.m for blank frame detection and reconstruct video without blank frames.
 
 Intensity_variation.m detects and reconstruct distorted frames and produce new video
