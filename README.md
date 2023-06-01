@@ -1,7 +1,6 @@
-# Introduction
-Blank_frame.m for blank frame detection and reconstruct video without blank frames.
-
-Intensity_variation.m detects and reconstruct distorted frames and produce new video
+# Codes
+* Blank_frame.m for blank frame detection and reconstruct video without blank frames.
+* Intensity_variation.m detects and reconstruct distorted frames and produce new video
 
 # Plugins Deployment via Fiji
 This algorithm is deployed as a Fiji plugin. To run the plugin:
