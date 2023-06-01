@@ -25,7 +25,12 @@ Exaplanation of adding a script to the plungin menu can be found [here](https://
 * Please send an email in csae of issues.
 # Citation
 * If you find the work useful, please consider citing the paper:
-> TODO: Get citation info.
 
-# Acknowledgements
-> TODO: 
+@inproceedings{ucar2022detection, <br/>
+  title={Detection and Restoration Pipeline for Phase Contrast Microscopy Time Series Images}, <br/>
+  author={Ucar, Mahmut and Iheme, Leonardo O and Onal, Sevgi and Ozuysal, Ozden Y and Okvur, Devrim P and Toreyin, Behcet U and Unay, Devrim}, <br/>
+  booktitle={2022 Medical Technologies Congress (TIPTEKNO)}, <br/>
+  pages={1--4}, <br/>
+  year={2022}, <br/>
+  organization={IEEE} <br/>
+}
