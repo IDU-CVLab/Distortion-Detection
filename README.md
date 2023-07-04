@@ -20,6 +20,9 @@ Note that, as opposed to plain IJ1 [^2], this approach allows you to register yo
 Exaplanation of adding a script to the plungin menu can be found [here](https://imagej.net/scripting/#Adding_scripts_to_the_Plugins_menu)
 <br/> 
 * Please send an email in csae of issues.
+
+# Acknowledgement
+% TO DO
 # Citation
 * If you find the work useful, please consider citing the paper:
 
