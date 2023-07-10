@@ -26,7 +26,7 @@ Exaplanation of adding a script to the plungin menu can be found [here](https://
 
 * The data used in this study is collected under the Marie Curie IRG grant (no: FP7 PIRG08-GA-2010-27697).
 
-* The dataset contains cell motility, macrophage behaviours and some other experiments images which taken by PCM.
+* The dataset contains cell motility, macrophage behaviours and some other experiments images which are taken by PCM.
   
 # Citation
 * If you find the work useful, please consider citing the paper:
