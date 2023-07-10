@@ -22,8 +22,12 @@ Exaplanation of adding a script to the plungin menu can be found [here](https://
 * Please send an email in csae of issues.
 
 # Acknowledgement
-* % TO DO
-* 
+* This work is supported by the Scientific and Technological Research Council of Turkey (TUBITAK) under grant no 119E578.
+
+* The data used in this study is collected under the Marie Curie IRG grant (no: FP7 PIRG08-GA-2010-27697).
+
+* The dataset contains cell motility, macrophage behaviours and some other experiments images which taken by PCM.
+  
 # Citation
 * If you find the work useful, please consider citing the paper:
 
