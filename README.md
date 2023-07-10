@@ -22,7 +22,8 @@ Exaplanation of adding a script to the plungin menu can be found [here](https://
 * Please send an email in csae of issues.
 
 # Acknowledgement
-% TO DO
+* This work is supported by the Scientific and Technological Research Council of Turkey (TUBITAK) under grant no 119E578.
+  
 # Citation
 * If you find the work useful, please consider citing the paper:
 
