@@ -23,7 +23,7 @@ Exaplanation of adding a script to the plungin menu can be found [here](https://
 
 # Acknowledgement
 * This work is supported by the Scientific and Technological Research Council of Turkey (TUBITAK) under grant no 119E578.
-  
+%%% HOW THE DATA WAS COLLECTED %%%
 # Citation
 * If you find the work useful, please consider citing the paper:
 
