@@ -15,18 +15,15 @@ The filename must contain an ‘_’ (underscore) character.                    
 Note that, as opposed to plain IJ1 [^2], this approach allows you to register your macros and scripts in any menu. So, if for example, you place your macro script in Fiji.app/scripts/Edit/My Own Submenu, it will appear in Edit>My Own Submenu>
 
 [^1] In Fiji, it is also possible to place scripts in another legacy location: Fiji.app/plugins/Scripts/ <br/>
-[^2] In plain IJ1, the macro can have either an .ijm or .txt, and must be placed in the /plugins/ directory).
+[^2] In plain IJ1, the macro can have either an .ijm or .txt, and must be placed in the /plugins/ directory.
 
 Exaplanation of adding a script to the plungin menu can be found [here](https://imagej.net/scripting/#Adding_scripts_to_the_Plugins_menu)
 <br/> 
-* Please send an email in csae of issues.
 
 # Acknowledgement
 * This work is supported by the Scientific and Technological Research Council of Turkey (TUBITAK) under grant no 119E578.
 * The data used in this study is collected under the Marie Curie IRG grant (no: FP7 PIRG08-GA-2010-27697).
 * The dataset contain cell motility, macrophage behaviours, and some other experimental Phase Contrast Microscopic (PCM) images.
-  
-* Please send an email if you need more details or wish to further collaborate.
   
 # Citation
 * If you find the work useful, please consider citing the paper:
