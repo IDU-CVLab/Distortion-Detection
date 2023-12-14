@@ -28,7 +28,7 @@ Exaplanation of adding a script to the plungin menu can be found [here](https://
 # Citation
 * If you find the work useful, please consider citing the paper:
 
-@inproceedings{ucar2022detection, <br/>
+>@inproceedings{ucar2022detection, <br/>
   title={Detection and Restoration Pipeline for Phase Contrast Microscopy Time Series Images}, <br/>
   author={Ucar, Mahmut and Iheme, Leonardo O and Onal, Sevgi and Ozuysal, Ozden Y and Okvur, Devrim P and Toreyin, Behcet U and Unay, Devrim}, <br/>
   booktitle={2022 Medical Technologies Congress (TIPTEKNO)}, <br/>
